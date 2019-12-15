@@ -15,7 +15,7 @@ class _StaterPageState extends State<StaterPage> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/images/starter-image.jpg'),
+            image: AssetImage('assets/images/stater-image.jpg'),
             fit: BoxFit.cover
           )
         ),
